@@ -1,0 +1,202 @@
+*{
+    margin: 1;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+.paragraph_1{
+    background: linear-gradient(to right ,red,green,blue,yellow 50%);
+}
+.paragraph_2{
+    background-image: url(./download.jpeg);
+    background-size: cover;
+}
+
+
+
+.parents{
+    height:800px;
+    width:1500px;
+    border:3px solid blueviolet;
+    display:flex;
+    justify-content: space-around;
+    align-items:center ;
+}
+.child_1{
+    height:300px;
+    width:300px;
+    border:2px solid grey;
+    background-image: url(./download\ \(1\).jpeg);
+    background-size: cover;
+    border-radius: 20%;
+
+}
+.child_2{
+    height:170px;
+    width:300px;
+    border:2px solid grey;
+    background-image: url(./course_1665409737.jpg);
+    background-size: cover;
+    border-radius: 30%;
+}
+.child_3{
+    height:170px;
+    width:300px;
+    border:2px solid grey;
+    background-image: url(./course_1662552115.jpg);
+    background-size: cover;
+    border-radius: 20%;
+}
+.child_4{
+    height:170px;
+    width:300px;
+    border:2px solid grey;
+    background-image: url(./course_1662637290.jpg);
+    background-size: cover;
+    border-radius: 10%;
+}
+.tareq{
+    width: 100%;
+    height: 40px;
+    border: 3px solid black;
+    display: flex;
+}
+                .tareq1{
+                    background-color: rgb(255, 204, 0);
+                    width: 20%;
+                    text-align: center;
+                }
+                .tareq2{
+                    background-color: #dddddd;
+                    width: 40%;
+                    text-align: center;
+                }
+                .tareq3{
+                    background-color: blue;
+                    width: 40%;
+                    text-align: center;
+                
+                }
+.sisher{
+    width: 100%;
+    height: 50px;
+    border: 3px solid black;
+    display: flex;
+
+}
+            .sisher1{
+                background-color: peru;
+                width: 12.5%;
+                text-align: center;
+            }
+            .sisher2{
+                background-color: rgb(245, 179, 197);
+                width: 12.5%;
+                text-align: center;
+            }
+
+            .sisher3{
+                background-color: purple;
+                width: 12.5%;
+                text-align: center;
+            }
+
+            .sisher4{
+                background-color: red;
+                width: 12.5%;
+                text-align: center;
+            }
+
+            .sisher5{
+                background-color: rgb(198, 226, 43);
+                width: 12.5%;
+                text-align: center;
+            }
+
+            .sisher6{
+                background-color: yellowgreen;
+                width: 12.5%;
+                text-align: center;
+            }
+
+            .sisher7{
+                background-color: grey;
+                width: 12.5%;
+                text-align: center;
+            }
+
+            .sisher8{
+                background-color: palevioletred;
+                width: 12.5%;
+                text-align: center;
+            }
+.rafi{
+    width: 100%;
+    height: 50px;
+    border: 3px solid black;
+    display: flex;
+}
+            .rafi1{
+                background-color: powderblue;
+                width: 70%;
+                text-align: center;
+            }
+            .rafi2{
+                background-color: peachpuff;
+                width: 30%;
+                text-align: center;
+            }
+    .tamim{
+    width: 100%;
+    height: 40px;
+    border: 3px solid black;
+    display: flex;
+   }
+             .tamim1{
+                            background-color: purple;
+                            width: 100%;
+                            text-align: center;
+                        }
+     .sahib{
+            width: 100%;
+            height: 70px;
+            border: 3px solid black;
+            display: flex;
+         }        
+             .sahib1{   
+                     background-color: goldenrod;
+                     width: 33.33%;
+                     text-align: center;
+                     }
+            .sahib2{
+                       background-color: blue;
+                       width: 33.33%;
+                       text-align: center;
+                     }
+             .sahib3{
+                      background-color: brown;
+                      width: 33.33%;
+                      text-align: center;
+                      }
+ .faisal{
+       width: 100%;
+     height: 70px;
+     border: 3px solid black;
+     display: flex;
+    }         
+             .faisal1{
+                                 background-color: black;
+                                 width: 20%;
+                                 text-align: center;
+                                }
+             .faisal2{
+                                  background-color: blanchedalmond;
+                                  width: 40%;
+                                  text-align: center;
+                                }
+             .faisal3{
+                                 background-color: goldenrod;
+                                 width: 40%;
+                                 text-align: center;
+                                 }
